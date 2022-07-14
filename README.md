@@ -1,5 +1,7 @@
 # Try Playwright
 
+![screenshot](screenshot.png)
+
 ## Getting Started
 
 `npx playwright test`
